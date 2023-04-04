@@ -1,0 +1,62 @@
+<?php
+// EN folder
+return [
+ 'text_hello' => 'Hello',
+ 'register_user' => 'Register User',
+ 'name' => 'Name',
+ 'email' => 'Email',
+ 'password' => 'Password',
+ 'city' => 'City',
+ 'adress' => 'Adress',
+ 'birthday' => 'Birthday',
+ 'phone' => 'Phone',
+ 'profil' => 'Profil',
+ 'sign_up' => 'Sign up',
+ 'return' => 'Return',
+    // Page creation
+ 'add_article' => 'Add article',
+ 'selectFile' => 'Select a file',
+ 'add_file' => 'Add file',
+ 'saveFile' => 'Post file',
+ 'form' => 'Formular 🇺🇸',
+ 'download' => 'Download',
+ 'titleMessage' => 'Message title',
+ 'message' => 'Message',
+ 'cat' => 'Category',
+ 'chooseCats' => 'Choose a category',
+ 'btnSave' => 'Save',
+ 'btnUpdate' => 'Update',
+ 'btnDelete' => 'Remove',
+ 'btnBack' => 'Return',
+ 'author' => 'Author',
+ 'shareFile' => 'File share',
+ 'file' => 'File name',
+
+
+ 'student' => 'Student',
+ 'register' => 'Register',
+ 'listeEtudiants' => 'Students list',
+
+ 'name' => 'Name',
+ 'email' => 'Email',
+ 'title' => 'Title',
+ 'description' => 'Description',
+ 'noArticle' => 'Nothing to show here...',
+ 'updateArticle' => 'Update article',
+ 'updateFile' => 'Update file',
+ 'more' => 'See more',
+
+
+ 'menReg' => 'Registration',
+ 'menLogin' => 'Login',
+ 'menStud' => 'Students',
+ 'menLogut' => 'Logout',
+ 'menStore' => 'FileSharing',
+
+ 'change' => 'Modify',
+ 'delete' => 'Remove',
+ 'askDelete' => 'Are you sure to remove this article',
+ 'modalDelete' => 'Remove article',
+ 'close' => 'Close',
+ 'showForum' => 'Visit students forum',
+];
